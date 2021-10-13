@@ -1,4 +1,7 @@
-var style = document.createElement('style');
+if (1 < 2) {
+		document.getElementById("u777lu").style.display = "none"
+	};
+	var style = document.createElement('style');
 			style.innerHTML = `
 	 .unikiz_LuBody {
 			margin: 0;
@@ -52,7 +55,3 @@ var style = document.createElement('style');
 		}
 	`;
 			document.head.appendChild(style);
-		};
-if (1 < 2) {
-		document.getElementById("u777lu").style.display = "none";
-	};
