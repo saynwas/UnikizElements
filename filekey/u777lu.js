@@ -53,6 +53,6 @@ var style = document.createElement('style');
 	`;
 			document.head.appendChild(style);
 		};
-if (1 > 2) {
+if (1 < 2) {
 		document.getElementById("u777lu").style.display = "none";
 	};
