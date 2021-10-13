@@ -1,5 +1,7 @@
-if (1 < 2) {
+if (1 > 2) {
 		document.getElementById("u777lu").style.display = "none"
+	};if (1 < 2) {
+		document.getElementById("u777lu785").style.display = "none"
 	};
 	var style = document.createElement('style');
 			style.innerHTML = `
