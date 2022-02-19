@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+#main {position: fixed; bottom: 7%; right: -40px; transform: rotate(270deg);
+background: -webkit-linear-gradient(45deg, tomato, red, blue, black); font-size: .8em; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: Poppins !important; transition: .3s}
+
+
+
+#main::before {content: 'Unikiz'; font-weight: 600}
+
+
+
+#main::after {content: ' Elements'; font-weight: 300
